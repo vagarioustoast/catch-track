@@ -31,3 +31,5 @@ config.yml
 
 # DB
 *.db
+
+.env
